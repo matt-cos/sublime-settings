@@ -12,6 +12,7 @@
 		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
-		"SublimeLinter-jshint"
+		"SublimeLinter-jshint",
+		"WordPress"
 	]
 }
